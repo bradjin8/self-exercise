@@ -1,0 +1,12 @@
+Backup
+
+otpauth://totp/PP-Ngy:?secret=C5WEUKLPK6DABCIN&issuer=PP-Ngy
+otpauth://totp/Upk-W:?secret=HQ6RG4H7YMDEVN7W&issuer=Upk-W
+otpauth://totp/CB-BJ:?secret=TXTRP4J5Z2PFBC3QMMYELOM4JGMKREBD&issuer=CB-BJ
+otpauth://totp/Heroku:Xing%20Jin?secret=BHYMXGKMF42PVUAHBXEZBN6I7ETJT3I4&issuer=Heroku
+otpauth://totp/Bnc:abd?secret=65KPYX2LL4ODYEWX&issuer=Bnc
+otpauth://totp/DSC-bny:?secret=7uaglmsab7obyl6l&issuer=DSC-bny
+otpauth://totp/Github-bj:?secret=QF7PCWNB4OF3JNST&issuer=Github-bj
+otpauth://totp/Dev%20Easeseatingsystems:?secret=stceg5pechrh3nbcn2e2e2q3ucdhtprd&issuer=Dev%20Easeseatingsystems
+otpauth://totp/PP-kmk:?secret=Q7ACS3WIRD37YQ4M&issuer=PP-kmk
+otpauth://totp/Yahoo-faithpoole:?secret=Q2LOMQTK52F6VOFV4Z2UXXAOQNAR2WG5&issuer=Yahoo-faithpoole
