@@ -19,3 +19,5 @@ https://drive.google.com/file/d/1Q_Nz7VThRUCcE9eUS2ergYhlLb9RPRHC/view?usp=shari
 Keyword: #self #exercise #zhihai[Zhihai]
 Updated at 06/26[o626]
 ```
+
+paprteam.slack.com
